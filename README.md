@@ -26,6 +26,7 @@ SSAFY 코딩테스트를 준비하며 Java로 풀어가는 알고리즘 문제 �
 | 1225 | 암호생성기 | [PasswordGenerator.java](./PasswordGenerator.java) |
 | 1226 | 미로1 | [Maze1.java](./Maze1.java) |
 | 1227 | 미로2 | [Maze2.java](./Maze2.java) |
+| 1228 | 암호문1 | [Cipher1.java](./Cipher1.java) |
 | 1234 | 비밀번호 | [Password.java](./Password.java) |
 | 1289 | 원재의 메모리 복구하기 | [MemoryRestoration.java](./MemoryRestoration.java) |
 | 1486 | 장훈이의 높은 선반 | [HighShelf.java](./HighShelf.java) |
