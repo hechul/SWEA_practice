@@ -41,6 +41,7 @@ SSAFY 코딩테스트를 준비하며 Java로 풀어가는 알고리즘 문제 �
 | 2805 | 농작물 수확하기 | [FarmHarvest.java](./FarmHarvest.java) |
 | 2817 | 부분 수열의 합 | [SubsequenceSum.java](./SubsequenceSum.java) |
 | 2819 | 격자판의 숫자 이어 붙이기 | [NumberConcatenation.java](./NumberConcatenation.java) |
+| 3431 | 준환이의 운동관리 | [ExerciseManagement.java](./ExerciseManagement.java) |
 | 4008 | 숫자 만들기 | [MakeNumbers.java](./MakeNumbers.java) |
 | 4012 | 요리사 | [Cook.java](./Cook.java) |
 | 5215 | 햄버거 다이어트 | [HamburgerDiet.java](./HamburgerDiet.java) |
