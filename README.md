@@ -20,6 +20,7 @@ SSAFY 코딩테스트를 준비하며 Java로 풀어가는 알고리즘 문제 �
 | 번호 | 문제 | 풀이 |
 | --- | --- | --- |
 | 1206 | View | [View.java](./View.java) |
+| 1208 | Flatten | [Flatten.java](./Flatten.java) |
 | 1209 | Sum | [Sum.java](./Sum.java) |
 | 1215 | 회문1 | [Palindrome.java](./Palindrome.java) |
 | 1216 | 회문2 | [Palindrome2.java](./Palindrome2.java) |
