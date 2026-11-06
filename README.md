@@ -48,6 +48,7 @@ SSAFY 코딩테스트를 준비하며 Java로 풀어가는 알고리즘 문제 �
 | 5215 | 햄버거 다이어트 | [HamburgerDiet.java](./HamburgerDiet.java) |
 | 5656 | 벽돌 깨기 | [BreakBricks.java](./BreakBricks.java) |
 | 5658 | 보물상자 비밀번호 | [TreasureBoxPassword.java](./TreasureBoxPassword.java) |
+| 6485 | 삼성시의 버스 노선 | [BusRoutes.java](./BusRoutes.java) |
 
 ## 💻 풀이 실행하기
 
