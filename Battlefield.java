@@ -114,7 +114,7 @@ public class Solution{
 					}
 				}
 				else if(direction == 2) {
-					while(sty - l < H) {
+					while(sty - l >= 0) {
 						if(arr[sty - l][stx] == '*') {
 							arr[sty - l][stx] = '.';
 							break;
@@ -126,7 +126,7 @@ public class Solution{
 					}
 				}
 				else if(direction == -2) {
-					while(sty + l >= 0) {
+					while(sty + l < H) {
 						if(arr[sty + l][stx] == '*') {
 							arr[sty + l][stx] = '.';
 							break;
@@ -141,7 +141,7 @@ public class Solution{
 			else if(define[i] == 'U') {
 				direction = 2;
 				arr[sty][stx] = '^';	
-				if(sty-1 < H && arr[sty-1][stx] == '.') {
+				if(sty-1 >= 0 && arr[sty-1][stx] == '.') {
 					arr[sty][stx] = '.';
 					sty--;
 					arr[sty][stx] = '^';
@@ -150,7 +150,7 @@ public class Solution{
 			else if(define[i] == 'D') {
 				direction = -2;
 				arr[sty][stx] = 'v';
-				if(sty+1 >= 0 && arr[sty+1][stx] == '.') {
+				if(sty+1 < H && arr[sty+1][stx] == '.') {
 					arr[sty][stx] = '.';
 					sty++;
 					arr[sty][stx] = 'v';
