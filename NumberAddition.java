@@ -75,9 +75,9 @@ public class Solution{
 			
 			for(int j=1; j<=n1; j++) { // 1 2
 				if(j == 1) {
-					if(real == p) { // 4 == 5
-						arrp[0] = y;
-						arrp[1] = x;
+					if(real == q) { // 4 == 5
+						arrq[0] = y;
+						arrq[1] = x;
 					}
 					continue;
 				}
