@@ -35,6 +35,7 @@ SSAFY 코딩테스트를 준비하며 Java로 풀어가는 알고리즘 문제 �
 | 1493 | 수의 새로운 연산 | [NumberAddition.java](./NumberAddition.java) |
 | 1860 | 진기의 최고급 붕어빵 | [FishBread.java](./FishBread.java) |
 | 1861 | 정사각형 방 | [SquareRoom.java](./SquareRoom.java) |
+| 1873 | 상호의 배틀필드 | [Battlefield.java](./Battlefield.java) |
 | 1949 | 등산로 조성 | [HikingTrailConstruction.java](./HikingTrailConstruction.java) |
 | 1952 | 수영장 | [SwimmingPool.java](./SwimmingPool.java) |
 | 1979 | 어디에 단어가 들어갈 수 있을까 | [WordFit.java](./WordFit.java) |
