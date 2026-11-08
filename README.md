@@ -51,6 +51,7 @@ SSAFY 코딩테스트를 준비하며 Java로 풀어가는 알고리즘 문제 �
 | 3431 | 준환이의 운동관리 | [ExerciseManagement.java](./ExerciseManagement.java) |
 | 4008 | 숫자 만들기 | [MakeNumbers.java](./MakeNumbers.java) |
 | 4012 | 요리사 | [Cook.java](./Cook.java) |
+| 4047 | 영준이의 카드 카운팅 | [CardCounting.java](./CardCounting.java) |
 | 5215 | 햄버거 다이어트 | [HamburgerDiet.java](./HamburgerDiet.java) |
 | 5656 | 벽돌 깨기 | [BreakBricks.java](./BreakBricks.java) |
 | 5658 | 보물상자 비밀번호 | [TreasureBoxPassword.java](./TreasureBoxPassword.java) |
