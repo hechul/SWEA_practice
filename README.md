@@ -54,10 +54,11 @@ SSAFY 코딩테스트를 준비하며 Java로 풀어가는 알고리즘 문제 �
 | 4008 | 숫자 만들기 | [MakeNumbers.java](./MakeNumbers.java) |
 | 4012 | 요리사 | [Cook.java](./Cook.java) |
 | 4047 | 영준이의 카드 카운팅 | [CardCounting.java](./CardCounting.java) |
-| 5215 | 햄버거 다이어트 | [HamburgerDiet.java](./HamburgerDiet.java) |
+| 5215 | 햄버거 다이어트 | [첫 번째 풀이](./HamburgerDiet.java) · [두 번째 풀이](./HamburgerDiet2.java) |
 | 5656 | 벽돌 깨기 | [BreakBricks.java](./BreakBricks.java) |
 | 5658 | 보물상자 비밀번호 | [TreasureBoxPassword.java](./TreasureBoxPassword.java) |
 | 5948 | 새샘이의 7-3-5 게임 | [SevenNumbers.java](./SevenNumbers.java) |
+| 6808 | 규영이와 인영이의 카드게임 | [CardGame6808.java](./CardGame6808.java) |
 | 6485 | 삼성시의 버스 노선 | [BusRoutes.java](./BusRoutes.java) |
 
 ## 💻 풀이 실행하기
