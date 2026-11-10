@@ -26,6 +26,7 @@ SSAFY 코딩테스트를 준비하며 Java로 풀어가는 알고리즘 문제 �
 | 1216 | 회문2 | [Palindrome2.java](./Palindrome2.java) |
 | 1219 | 길찾기 | [PathFinding.java](./PathFinding.java) |
 | 1220 | Magnetic | [Magnetic.java](./Magnetic.java) |
+| 1221 | GNS | [GNS.java](./GNS.java) |
 | 1225 | 암호생성기 | [PasswordGenerator.java](./PasswordGenerator.java) |
 | 1226 | 미로1 | [Maze1.java](./Maze1.java) |
 | 1227 | 미로2 | [Maze2.java](./Maze2.java) |
