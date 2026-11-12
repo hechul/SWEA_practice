@@ -66,6 +66,7 @@ SSAFY 코딩테스트를 준비하며 Java로 풀어가는 알고리즘 문제 �
 | 6808 | 규영이와 인영이의 카드게임 | [CardGame6808.java](./CardGame6808.java) |
 | 6485 | 삼성시의 버스 노선 | [BusRoutes.java](./BusRoutes.java) |
 | 7964 | 부먹왕국의 차원 관문 | [DimensionalPortals.java](./DimensionalPortals.java) |
+| 10580 | 전봇대 | [CrossedWires.java](./CrossedWires.java) |
 
 ## 💻 풀이 실행하기
 
