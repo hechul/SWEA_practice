@@ -43,6 +43,7 @@ SSAFY 코딩테스트를 준비하며 Java로 풀어가는 알고리즘 문제 �
 | 1949 | 등산로 조성 | [HikingTrailConstruction.java](./HikingTrailConstruction.java) |
 | 1952 | 수영장 | [SwimmingPool.java](./SwimmingPool.java) |
 | 1954 | 달팽이 숫자 | [SnailNumbers.java](./SnailNumbers.java) |
+| 1961 | 숫자 배열 회전 | [NumberRotation.java](./NumberRotation.java) |
 | 1979 | 어디에 단어가 들어갈 수 있을까 | [WordFit.java](./WordFit.java) |
 | 2001 | 파리 퇴치 | [KillFlies.java](./KillFlies.java) · [두 번째 풀이](./KillFlies2.java) |
 | 2105 | 디저트 카페 | [DessertCafe.java](./DessertCafe.java) |
