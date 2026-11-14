@@ -48,6 +48,7 @@ SSAFY 코딩테스트를 준비하며 Java로 풀어가는 알고리즘 문제 �
 | 1974 | 스도쿠 검증 | [SudokuValidation.java](./SudokuValidation.java) |
 | 1979 | 어디에 단어가 들어갈 수 있을까 | [WordFit.java](./WordFit.java) |
 | 2001 | 파리 퇴치 | [KillFlies.java](./KillFlies.java) · [두 번째 풀이](./KillFlies2.java) |
+| 2007 | 패턴 마디의 길이 | [PatternLength.java](./PatternLength.java) |
 | 2005 | 파스칼의 삼각형 | [PascalsTriangle.java](./PascalsTriangle.java) |
 | 2105 | 디저트 카페 | [DessertCafe.java](./DessertCafe.java) |
 | 2115 | 벌꿀채취 | [BeeHoneyHarvest.java](./BeeHoneyHarvest.java) |
