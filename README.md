@@ -72,6 +72,7 @@ SSAFY 코딩테스트를 준비하며 Java로 풀어가는 알고리즘 문제 �
 | 7964 | 부먹왕국의 차원 관문 | [DimensionalPortals.java](./DimensionalPortals.java) |
 | 9280 | 진용이네 주차타워 | [ParkingLot.java](./ParkingLot.java) |
 | 10580 | 전봇대 | [CrossedWires.java](./CrossedWires.java) |
+| 11315 | 오목 판정 | [FiveInARow.java](./FiveInARow.java) |
 
 ## 💻 풀이 실행하기
 
