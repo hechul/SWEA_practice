@@ -65,6 +65,7 @@ SSAFY 코딩테스트를 준비하며 Java로 풀어가는 알고리즘 문제 �
 | 4047 | 영준이의 카드 카운팅 | [CardCounting.java](./CardCounting.java) |
 | 4615 | 재미있는 오셀로 게임 | [Othello.java](./Othello.java) |
 | 5215 | 햄버거 다이어트 | [첫 번째 풀이](./HamburgerDiet.java) · [두 번째 풀이](./HamburgerDiet2.java) |
+| 5356 | 의석이의 세로로 말해요 | [VerticalReading.java](./VerticalReading.java) |
 | 5656 | 벽돌 깨기 | [BreakBricks.java](./BreakBricks.java) |
 | 5658 | 보물상자 비밀번호 | [TreasureBoxPassword.java](./TreasureBoxPassword.java) |
 | 5948 | 새샘이의 7-3-5 게임 | [SevenNumbers.java](./SevenNumbers.java) |
