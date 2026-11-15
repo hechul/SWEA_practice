@@ -74,6 +74,7 @@ SSAFY 코딩테스트를 준비하며 Java로 풀어가는 알고리즘 문제 �
 | 5789 | 현주의 상자 바꾸기 | [ChangingBoxes.java](./ChangingBoxes.java) |
 | 5948 | 새샘이의 7-3-5 게임 | [SevenNumbers.java](./SevenNumbers.java) |
 | 6190 | 정곤이의 단조 증가하는 수 | [MonotoneProduct.java](./MonotoneProduct.java) |
+| 6730 | 장애물 경주 난이도 | [ObstacleRace.java](./ObstacleRace.java) |
 | 6808 | 규영이와 인영이의 카드게임 | [CardGame6808.java](./CardGame6808.java) |
 | 6485 | 삼성시의 버스 노선 | [BusRoutes.java](./BusRoutes.java) |
 | 7675 | 통역사 성경이 | [Interpreter.java](./Interpreter.java) |
