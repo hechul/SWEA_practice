@@ -54,7 +54,7 @@ SSAFY 코딩테스트를 준비하며 Java로 풀어가는 알고리즘 문제 �
 | 2115 | 벌꿀채취 | [BeeHoneyHarvest.java](./BeeHoneyHarvest.java) |
 | 2117 | 홈 방범 서비스 | [HomeSecurityService.java](./HomeSecurityService.java) |
 | 2805 | 농작물 수확하기 | [FarmHarvest.java](./FarmHarvest.java) |
-| 2806 | N-Queen | [NQueen.java](./NQueen.java) |
+| 2806 | N-Queen | [NQueen.java](./NQueen.java) · [새로운 풀이](./NQueen2.java) |
 | 2814 | 최장 경로 | [LongestPath.java](./LongestPath.java) |
 | 2817 | 부분 수열의 합 | [SubsequenceSum.java](./SubsequenceSum.java) |
 | 2819 | 격자판의 숫자 이어 붙이기 | [NumberConcatenation.java](./NumberConcatenation.java) |
