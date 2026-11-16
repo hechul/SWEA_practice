@@ -44,6 +44,7 @@ SSAFY 코딩테스트를 준비하며 Java로 풀어가는 알고리즘 문제 �
 | 1949 | 등산로 조성 | [HikingTrailConstruction.java](./HikingTrailConstruction.java) |
 | 1952 | 수영장 | [SwimmingPool.java](./SwimmingPool.java) |
 | 1954 | 달팽이 숫자 | [SnailNumbers.java](./SnailNumbers.java) |
+| 1959 | 두 개의 숫자열 | [TwoArrays.java](./TwoArrays.java) |
 | 1961 | 숫자 배열 회전 | [NumberRotation.java](./NumberRotation.java) |
 | 1974 | 스도쿠 검증 | [SudokuValidation.java](./SudokuValidation.java) |
 | 1979 | 어디에 단어가 들어갈 수 있을까 | [WordFit.java](./WordFit.java) |
