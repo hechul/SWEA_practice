@@ -62,6 +62,7 @@ SSAFY 코딩테스트를 준비하며 Java로 풀어가는 알고리즘 문제 �
 | 3282 | 0/1 Knapsack | [Knapsack.java](./Knapsack.java) |
 | 3431 | 준환이의 운동관리 | [ExerciseManagement.java](./ExerciseManagement.java) |
 | 3499 | 퍼펙트 셔플 | [PerfectShuffle.java](./PerfectShuffle.java) |
+| 3809 | 화섭이의 정수 나열 | [IntegerSequence.java](./IntegerSequence.java) |
 | 4008 | 숫자 만들기 | [MakeNumbers.java](./MakeNumbers.java) |
 | 4012 | 요리사 | [Cook.java](./Cook.java) |
 | 4047 | 영준이의 카드 카운팅 | [CardCounting.java](./CardCounting.java) |
