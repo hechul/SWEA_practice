@@ -37,7 +37,7 @@ SSAFY 코딩테스트를 준비하며 Java로 풀어가는 알고리즘 문제 �
 | 1244 | 최대 상금 | [MaximumPrize.java](./MaximumPrize.java) · [복습 풀이](./MaximumPrize2.java) |
 | 1289 | 원재의 메모리 복구하기 | [MemoryRestoration.java](./MemoryRestoration.java) |
 | 1486 | 장훈이의 높은 선반 | [HighShelf.java](./HighShelf.java) |
-| 1493 | 수의 새로운 연산 | [NumberAddition.java](./NumberAddition.java) |
+| 1493 | 수의 새로운 연산 | [첫 번째 풀이](./NumberAddition.java) · [새로운 풀이](./NumberAddition2.java) |
 | 1860 | 진기의 최고급 붕어빵 | [FishBread.java](./FishBread.java) |
 | 1861 | 정사각형 방 | [SquareRoom.java](./SquareRoom.java) |
 | 1873 | 상호의 배틀필드 | [Battlefield.java](./Battlefield.java) |
