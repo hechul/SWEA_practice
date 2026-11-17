@@ -60,6 +60,7 @@ SSAFY 코딩테스트를 준비하며 Java로 풀어가는 알고리즘 문제 �
 | 2817 | 부분 수열의 합 | [SubsequenceSum.java](./SubsequenceSum.java) |
 | 2819 | 격자판의 숫자 이어 붙이기 | [NumberConcatenation.java](./NumberConcatenation.java) |
 | 3282 | 0/1 Knapsack | [Knapsack.java](./Knapsack.java) |
+| 3376 | 파도반 수열 | [PadovanSequence.java](./PadovanSequence.java) |
 | 3431 | 준환이의 운동관리 | [ExerciseManagement.java](./ExerciseManagement.java) |
 | 3499 | 퍼펙트 셔플 | [PerfectShuffle.java](./PerfectShuffle.java) |
 | 3809 | 화섭이의 정수 나열 | [IntegerSequence.java](./IntegerSequence.java) |
