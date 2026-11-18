@@ -34,7 +34,7 @@ public class Solution{
 //			int result = 0;
 			
 			int max = 0;
-			int result = 0;
+			long result = 0;
 			
 			for(int j=N-1; j>=0; j--) {
 				if(arr[j] > max)  max = arr[j];
