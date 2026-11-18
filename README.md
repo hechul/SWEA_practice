@@ -58,7 +58,7 @@ SSAFY 코딩테스트를 준비하며 Java로 풀어가는 알고리즘 문제 �
 | 2805 | 농작물 수확하기 | [FarmHarvest.java](./FarmHarvest.java) |
 | 2806 | N-Queen | [NQueen.java](./NQueen.java) · [새로운 풀이](./NQueen2.java) |
 | 2814 | 최장 경로 | [LongestPath.java](./LongestPath.java) |
-| 2817 | 부분 수열의 합 | [SubsequenceSum.java](./SubsequenceSum.java) |
+| 2817 | 부분 수열의 합 | [첫 번째 풀이](./SubsequenceSum.java) · [두 번째 풀이](./SubsequenceSum2.java) |
 | 2819 | 격자판의 숫자 이어 붙이기 | [NumberConcatenation.java](./NumberConcatenation.java) |
 | 3282 | 0/1 Knapsack | [Knapsack.java](./Knapsack.java) |
 | 3307 | 최장 증가 부분 수열 | [LongestIncreasingSubsequence.java](./LongestIncreasingSubsequence.java) |
