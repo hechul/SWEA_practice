@@ -72,6 +72,7 @@ SSAFY 코딩테스트를 준비하며 Java로 풀어가는 알고리즘 문제 �
 | 4406 | 모음이 보이지 않는 사람 | [RemoveVowels.java](./RemoveVowels.java) |
 | 4466 | 최대 성적표 만들기 | [MaximumScore.java](./MaximumScore.java) |
 | 4615 | 재미있는 오셀로 게임 | [Othello.java](./Othello.java) |
+| 4698 | 테네스의 특별한 소수 | [SpecialPrime.java](./SpecialPrime.java) |
 | 5215 | 햄버거 다이어트 | [첫 번째 풀이](./HamburgerDiet.java) · [두 번째 풀이](./HamburgerDiet2.java) |
 | 5356 | 의석이의 세로로 말해요 | [VerticalReading.java](./VerticalReading.java) |
 | 5431 | 민석이의 과제 체크하기 | [HomeworkCheck.java](./HomeworkCheck.java) |
