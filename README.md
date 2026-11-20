@@ -35,6 +35,7 @@ SSAFY 코딩테스트를 준비하며 Java로 풀어가는 알고리즘 문제 �
 | 1229 | 암호문2 | [Cipher2.java](./Cipher2.java) |
 | 1234 | 비밀번호 | [첫 번째 풀이](./Password.java) · [두 번째 풀이](./Password2.java) |
 | 1244 | 최대 상금 | [MaximumPrize.java](./MaximumPrize.java) · [복습 풀이](./MaximumPrize2.java) |
+| 1285 | 아름이의 돌 던지기 | [StoneThrowing.java](./StoneThrowing.java) |
 | 1289 | 원재의 메모리 복구하기 | [MemoryRestoration.java](./MemoryRestoration.java) |
 | 1486 | 장훈이의 높은 선반 | [HighShelf.java](./HighShelf.java) |
 | 1493 | 수의 새로운 연산 | [첫 번째 풀이](./NumberAddition.java) · [두 번째 풀이](./NumberAddition2.java) · [세 번째 풀이](./NumberAddition3.java) |
